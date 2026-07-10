@@ -1,0 +1,11 @@
+symbol,timeframes,scan_interval_seconds,use_trend_filter,main_sl_value,main_sl_unit,main_tp1_value,main_tp1_unit,main_tp2_value,main_tp2_unit,main_tp3_value,main_tp3_unit,entry_buffer_min,entry_buffer_min_unit,entry_buffer_max,entry_buffer_max_unit
+AUDUSD,M15|M30,45,True,25.0,pips,18.0,pips,30.0,pips,45.0,pips,1.5,pips,3.0,pips
+BTCUSD,M15|H1,60,True,1.0,percent,0.649091,percent,1.25,percent,2.0,percent,0.075,percent,0.1125,percent
+ETHUSD,M15|H1,60,True,1.5,percent,1.0,percent,2.0,percent,3.0,percent,0.1125,percent,0.15,percent
+EURUSD,M15|M30,45,True,20.0,pips,14.285727,pips,25.714273,pips,40.0,pips,1.5,pips,3.0,pips
+GBPUSD,M15|M30,45,True,30.0,pips,26.25,pips,45.0,pips,60.0,pips,2.25,pips,3.75,pips
+NASDAQ,M15|H1,60,True,70.0,points,35.0,points,70.0,points,140.0,points,3.75,points,7.5,points
+US30,M15|H1,60,False,120.0,points,75.0,points,150.0,points,240.0,points,11.25,points,18.75,points
+USDJPY,M15|M30,45,True,30.0,pips,21.0,pips,36.0,pips,54.0,pips,2.25,pips,3.75,pips
+USOIL,M15|H1,60,True,0.3,price,0.175,price,0.35,price,0.6,price,0.0375,price,0.06,price
+XAUUSD,M15|H1,60,True,200.0,pips,125.0,pips,250.0,pips,400.0,pips,11.25,pips,18.75,pips

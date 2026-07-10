@@ -1,0 +1,316 @@
+
+=== BTCUSD -> BTCUSDm
+signal source by sample
+ last 5 closes: [60118.13, 60105.77, 60087.64, 60125.24, 60116.53]
+ last 5 opens: [60128.88, 60117.67, 60105.93, 60088.84, 60125.44]
+ resampled frame tail:
+                     time     open     high      low    close  volume
+2026-07-01 12:00:00+00:00 58536.88 59450.23 58241.38 59420.03 15450.0
+2026-07-01 14:00:00+00:00 59417.52 60482.77 59196.02 60082.33 17642.0
+2026-07-01 16:00:00+00:00 60089.56 60212.56 59719.85 60130.42  7187.0
+2026-07-01 18:00:00+00:00 60125.31 60296.04 59930.82 59970.45  6125.0
+2026-07-01 20:00:00+00:00 59970.19 60787.38 59806.49 60758.39  5991.0
+2026-07-01 22:00:00+00:00 60759.42 61287.93 59910.78 59966.85  9673.0
+2026-07-02 00:00:00+00:00 59972.93 60260.88 59517.92 60110.47  7938.0
+2026-07-02 02:00:00+00:00 60114.66 61061.06 59943.99 60990.29  8340.0
+2026-07-02 04:00:00+00:00 60988.71 60988.71 60412.01 60439.16  6257.0
+2026-07-02 06:00:00+00:00 60435.75 60577.07 60086.46 60116.53  4179.0
+ last 20 main_close: [60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53, 60116.53]
+ last 20 main_open: [60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75, 60435.75]
+ last 20 cross_over: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+ last 20 cross_under: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+last idx 1498 condition -1.1 entry 60874.05
+last 8 swift_main_condition: [-1.1, -1.1, -1.1, -1.1, -1.1, -1.1, -1.1, -1.1]
+last 8 swift_main_entry: [60874.05, 60874.05, 60874.05, 60874.05, 60874.05, 60874.05, 60874.05, 60874.05]
+events total 10
+event Main Long Entry formed 95 triggered 2026-07-01 08:00:00+00:00 dir bullish
+event Main Long SL formed 95 triggered 2026-07-01 12:07:00+00:00 dir bullish
+event Main Short Entry formed 695 triggered 2026-07-01 18:00:00+00:00 dir bearish
+event Main Short SL formed 695 triggered 2026-07-01 21:17:00+00:00 dir bearish
+event Main Short Entry formed 935 triggered 2026-07-01 22:00:00+00:00 dir bearish
+event Main Short SL formed 935 triggered 2026-07-01 22:21:00+00:00 dir bearish
+event Main Long Entry formed 1055 triggered 2026-07-02 00:00:00+00:00 dir bullish
+event Main Long SL formed 1055 triggered 2026-07-02 00:34:00+00:00 dir bullish
+event Main Short Entry formed 1295 triggered 2026-07-02 04:00:00+00:00 dir bearish
+event Main Short TP1 formed 1295 triggered 2026-07-02 06:48:00+00:00 dir bearish
+recent count 0
+active zones 1
+
+=== ETHUSD -> ETHUSDm
+signal source by sample
+ last 5 closes: [1613.54, 1614.29, 1613.08, 1614.02, 1614.44]
+ last 5 opens: [1614.29, 1613.54, 1614.25, 1613.11, 1614.07]
+ resampled frame tail:
+                     time    open    high     low   close  volume
+2026-07-01 12:00:00+00:00 1567.61 1595.93 1562.92 1595.06  9353.0
+2026-07-01 14:00:00+00:00 1594.86 1629.42 1588.85 1618.16 11820.0
+2026-07-01 16:00:00+00:00 1618.14 1627.66 1604.84 1621.04  5554.0
+2026-07-01 18:00:00+00:00 1621.04 1622.45 1609.83 1616.29  4570.0
+2026-07-01 20:00:00+00:00 1616.14 1636.79 1608.39 1629.81  4692.0
+2026-07-01 22:00:00+00:00 1629.68 1644.51 1606.09 1607.81  6602.0
+2026-07-02 00:00:00+00:00 1607.89 1623.25 1594.74 1618.26  5604.0
+2026-07-02 02:00:00+00:00 1618.26 1640.62 1612.02 1637.09  5767.0
+2026-07-02 04:00:00+00:00 1637.13 1637.51 1622.71 1624.55  3567.0
+2026-07-02 06:00:00+00:00 1624.55 1627.73 1613.07 1614.44  2744.0
+ last 20 main_close: [1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44, 1614.44]
+ last 20 main_open: [1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55, 1624.55]
+ last 20 cross_over: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+ last 20 cross_under: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+last idx 1498 condition -1.1 entry 1634.11
+last 8 swift_main_condition: [-1.1, -1.1, -1.1, -1.1, -1.1, -1.1, -1.1, -1.1]
+last 8 swift_main_entry: [1634.11, 1634.11, 1634.11, 1634.11, 1634.11, 1634.11, 1634.11, 1634.11]
+events total 12
+event Main Long Entry formed 95 triggered 2026-07-01 08:00:00+00:00 dir bullish
+event Main Long SL formed 95 triggered 2026-07-01 08:33:00+00:00 dir bullish
+event Main Short Entry formed 215 triggered 2026-07-01 10:00:00+00:00 dir bearish
+event Main Short SL formed 215 triggered 2026-07-01 13:46:00+00:00 dir bearish
+event Main Short Entry formed 695 triggered 2026-07-01 18:00:00+00:00 dir bearish
+event Main Short SL formed 695 triggered 2026-07-01 21:38:00+00:00 dir bearish
+event Main Short Entry formed 935 triggered 2026-07-01 22:00:00+00:00 dir bearish
+event Main Short SL formed 935 triggered 2026-07-01 22:21:00+00:00 dir bearish
+event Main Long Entry formed 1055 triggered 2026-07-02 00:00:00+00:00 dir bullish
+event Main Long SL formed 1055 triggered 2026-07-02 00:42:00+00:00 dir bullish
+event Main Short Entry formed 1295 triggered 2026-07-02 04:00:00+00:00 dir bearish
+event Main Short TP1 formed 1295 triggered 2026-07-02 06:47:00+00:00 dir bearish
+recent count 0
+active zones 1
+
+=== USOIL -> USOILm
+signal source by sample
+ last 5 closes: [67.567, 67.551, 67.562, 67.627, 67.665]
+ last 5 opens: [67.583, 67.569, 67.55, 67.56, 67.626]
+ resampled frame tail:
+                     time   open   high    low  close  volume
+2026-07-01 12:00:00+00:00 69.033 69.170 68.587 69.016 14430.0
+2026-07-01 14:00:00+00:00 69.015 69.059 68.041 68.111 16334.0
+2026-07-01 16:00:00+00:00 68.108 68.402 67.987 68.256  8924.0
+2026-07-01 18:00:00+00:00 68.249 68.678 67.892 67.996  7141.0
+2026-07-01 20:00:00+00:00 67.998 68.099 67.923 68.023  1590.0
+2026-07-01 22:00:00+00:00 68.054 68.126 67.922 67.958  1612.0
+2026-07-02 00:00:00+00:00 67.961 68.102 67.567 67.771 11037.0
+2026-07-02 02:00:00+00:00 67.775 67.950 67.545 67.690  8068.0
+2026-07-02 04:00:00+00:00 67.691 67.884 67.673 67.841  5002.0
+2026-07-02 06:00:00+00:00 67.846 67.973 67.427 67.665  8927.0
+ last 20 main_close: [67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665, 67.665]
+ last 20 main_open: [67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846, 67.846]
+ last 20 cross_over: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+ last 20 cross_under: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+last idx 1498 condition 1.0 entry 67.729
+last 8 swift_main_condition: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+last 8 swift_main_entry: [67.729, 67.729, 67.729, 67.729, 67.729, 67.729, 67.729, 67.729]
+events total 5
+event Main Long Entry formed 277 triggered 2026-07-01 10:00:00+00:00 dir bullish
+event Main Long SL formed 277 triggered 2026-07-01 14:47:00+00:00 dir bullish
+event Main Long Entry formed 637 triggered 2026-07-01 16:00:00+00:00 dir bullish
+event Main Long SL formed 637 triggered 2026-07-02 00:46:00+00:00 dir bullish
+event Main Long Entry formed 1295 triggered 2026-07-02 04:00:00+00:00 dir bullish
+recent count 0
+active zones 1
+
+=== XAUUSD -> XAUUSDm
+signal source by sample
+ last 5 closes: [4065.283, 4065.796, 4066.137, 4065.81, 4062.3]
+ last 5 opens: [4066.79, 4065.266, 4065.664, 4066.187, 4065.772]
+ resampled frame tail:
+                     time     open     high      low    close  volume
+2026-07-01 12:00:00+00:00 4030.558 4108.026 4012.834 4089.578 67891.0
+2026-07-01 14:00:00+00:00 4089.489 4115.736 4076.642 4081.229 52047.0
+2026-07-01 16:00:00+00:00 4081.176 4088.609 4067.265 4068.023 22755.0
+2026-07-01 18:00:00+00:00 4068.075 4070.636 4034.231 4038.683 19592.0
+2026-07-01 20:00:00+00:00 4038.516 4039.846 4028.446 4031.615  7302.0
+2026-07-01 22:00:00+00:00 4034.182 4045.279 4032.861 4035.169 11129.0
+2026-07-02 00:00:00+00:00 4034.972 4068.617 4030.633 4050.396 35632.0
+2026-07-02 02:00:00+00:00 4050.350 4074.220 4041.144 4070.082 24627.0
+2026-07-02 04:00:00+00:00 4070.138 4072.892 4053.111 4065.933 21569.0
+2026-07-02 06:00:00+00:00 4066.239 4079.729 4061.348 4062.300 20647.0
+ last 20 main_close: [4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3, 4062.3]
+ last 20 main_open: [4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239, 4066.239]
+ last 20 cross_over: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+ last 20 cross_under: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+last idx 1498 condition -1.0 entry 4071.078
+last 8 swift_main_condition: [-1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0]
+last 8 swift_main_entry: [4071.078, 4071.078, 4071.078, 4071.078, 4071.078, 4071.078, 4071.078, 4071.078]
+events total 6
+event Main Short Entry formed 517 triggered 2026-07-01 14:00:00+00:00 dir bearish
+event Main Short TP1 formed 517 triggered 2026-07-01 18:53:00+00:00 dir bearish
+event Main Short TP2 formed 517 triggered 2026-07-01 19:56:00+00:00 dir bearish
+event Main Long Entry formed 935 triggered 2026-07-01 22:00:00+00:00 dir bullish
+event Main Long TP1 formed 935 triggered 2026-07-02 03:56:00+00:00 dir bullish
+event Main Short Entry formed 1295 triggered 2026-07-02 04:00:00+00:00 dir bearish
+recent count 0
+active zones 1
+
+=== NASDAQ -> USTEC_x100m
+signal source by sample
+ last 5 closes: [29629.08, 29643.17, 29622.08, 29621.35, 29629.85]
+ last 5 opens: [29637.38, 29628.84, 29642.74, 29621.9, 29620.91]
+ resampled frame tail:
+                     time     open     high      low    close  volume
+2026-07-01 12:00:00+00:00 30144.38 30175.83 29868.58 30062.61 75780.0
+2026-07-01 14:00:00+00:00 30062.10 30135.10 29917.69 30035.42 62206.0
+2026-07-01 16:00:00+00:00 30035.93 30061.16 29934.29 29943.26 29370.0
+2026-07-01 18:00:00+00:00 29943.73 30011.45 29834.91 29860.68 28564.0
+2026-07-01 20:00:00+00:00 29861.15 29866.66 29790.00 29845.39  9630.0
+2026-07-01 22:00:00+00:00 29878.92 29898.99 29794.72 29828.29  9981.0
+2026-07-02 00:00:00+00:00 29828.78 30010.83 29737.24 29986.68 24718.0
+2026-07-02 02:00:00+00:00 29986.23 30022.18 29918.50 29956.30 12783.0
+2026-07-02 04:00:00+00:00 29956.10 29971.64 29821.60 29834.08 15604.0
+2026-07-02 06:00:00+00:00 29834.65 29849.52 29610.27 29629.85 15365.0
+ last 20 main_close: [29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85, 29629.85]
+ last 20 main_open: [29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65, 29834.65]
+ last 20 cross_over: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+ last 20 cross_under: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+last idx 1498 condition 0.0 entry 29797.19
+last 8 swift_main_condition: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+last 8 swift_main_entry: [29797.19, 29797.19, 29797.19, 29797.19, 29797.19, 29797.19, 29797.19, 29797.19]
+events total 4
+event Main Long Entry formed 160 triggered 2026-07-01 08:00:00+00:00 dir bullish
+event Main Long SL formed 160 triggered 2026-07-01 13:30:00+00:00 dir bullish
+event Main Long Entry formed 1055 triggered 2026-07-02 00:00:00+00:00 dir bullish
+event Main Long SL formed 1055 triggered 2026-07-02 07:11:00+00:00 dir bullish
+recent count 0
+active zones 0
+
+=== US30 -> US30_x10m
+signal source by sample
+ last 5 closes: [52346.1, 52350.1, 52339.1, 52346.6, 52341.8]
+ last 5 opens: [52343.5, 52346.5, 52349.3, 52339.6, 52346.3]
+ resampled frame tail:
+                     time    open    high     low   close  volume
+2026-07-01 12:00:00+00:00 52268.2 52403.6 52132.4 52382.7 45108.0
+2026-07-01 14:00:00+00:00 52383.9 52739.6 52338.0 52736.3 41152.0
+2026-07-01 16:00:00+00:00 52737.4 52856.5 52509.3 52518.4 24036.0
+2026-07-01 18:00:00+00:00 52519.3 52541.6 52405.1 52407.2 23341.0
+2026-07-01 20:00:00+00:00 52407.7 52415.0 52319.1 52351.1  5228.0
+2026-07-01 22:00:00+00:00 52362.0 52376.0 52324.8 52356.4  4683.0
+2026-07-02 00:00:00+00:00 52356.0 52444.7 52309.1 52428.7 10579.0
+2026-07-02 02:00:00+00:00 52428.2 52484.4 52425.4 52469.7  3985.0
+2026-07-02 04:00:00+00:00 52470.5 52471.7 52399.4 52401.7  4597.0
+2026-07-02 06:00:00+00:00 52401.2 52413.4 52299.4 52341.8  6435.0
+ last 20 main_close: [52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8, 52341.8]
+ last 20 main_open: [52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2, 52401.2]
+ last 20 cross_over: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+ last 20 cross_under: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+last idx 1498 condition -1.0 entry 52462.8
+last 8 swift_main_condition: [-1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0]
+last 8 swift_main_entry: [52462.8, 52462.8, 52462.8, 52462.8, 52462.8, 52462.8, 52462.8, 52462.8]
+events total 3
+event Main Long Entry formed 161 triggered 2026-07-01 08:00:00+00:00 dir bullish
+event Main Long TP1 formed 161 triggered 2026-07-01 16:03:00+00:00 dir bullish
+event Main Short Entry formed 1295 triggered 2026-07-02 04:00:00+00:00 dir bearish
+recent count 0
+active zones 1
+
+=== EURUSD -> EURUSDm
+signal source by sample
+ last 5 closes: [1.1394199999999999, 1.13941, 1.13945, 1.13955, 1.13977]
+ last 5 opens: [1.13941, 1.13941, 1.13943, 1.13945, 1.13955]
+ resampled frame tail:
+                     time    open    high     low   close  volume
+2026-07-01 12:00:00+00:00 1.13854 1.14117 1.13614 1.13953  9915.0
+2026-07-01 14:00:00+00:00 1.13950 1.14051 1.13784 1.13836  8492.0
+2026-07-01 16:00:00+00:00 1.13837 1.13937 1.13788 1.13808  4471.0
+2026-07-01 18:00:00+00:00 1.13808 1.13826 1.13751 1.13786  2494.0
+2026-07-01 20:00:00+00:00 1.13783 1.13793 1.13736 1.13782  1080.0
+2026-07-01 22:00:00+00:00 1.13782 1.13794 1.13767 1.13772   646.0
+2026-07-02 00:00:00+00:00 1.13772 1.13855 1.13746 1.13811  2501.0
+2026-07-02 02:00:00+00:00 1.13811 1.13881 1.13777 1.13819  1992.0
+2026-07-02 04:00:00+00:00 1.13820 1.13884 1.13810 1.13852  2106.0
+2026-07-02 06:00:00+00:00 1.13854 1.14040 1.13851 1.13977  3720.0
+ last 20 main_close: [1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977, 1.13977]
+ last 20 main_open: [1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999, 1.1385399999999999]
+ last 20 cross_over: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+ last 20 cross_under: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+last idx 1498 condition 1.0 entry 1.13871
+last 8 swift_main_condition: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+last 8 swift_main_entry: [1.13871, 1.13871, 1.13871, 1.13871, 1.13871, 1.13871, 1.13871, 1.13871]
+events total 1
+event Main Long Entry formed 338 triggered 2026-07-01 12:00:00+00:00 dir bullish
+recent count 0
+active zones 1
+
+=== USDJPY -> USDJPYm
+signal source by sample
+ last 5 closes: [161.715, 161.74, 161.724, 161.703, 161.753]
+ last 5 opens: [161.724, 161.718, 161.739, 161.725, 161.701]
+ resampled frame tail:
+                     time    open    high     low   close  volume
+2026-07-01 12:00:00+00:00 162.692 162.762 162.291 162.406  6511.0
+2026-07-01 14:00:00+00:00 162.409 162.471 162.304 162.411  6190.0
+2026-07-01 16:00:00+00:00 162.411 162.541 162.354 162.527  3059.0
+2026-07-01 18:00:00+00:00 162.525 162.583 162.503 162.566  1846.0
+2026-07-01 20:00:00+00:00 162.552 162.607 162.384 162.458  1121.0
+2026-07-01 22:00:00+00:00 162.554 162.581 162.511 162.542   928.0
+2026-07-02 00:00:00+00:00 162.542 162.594 162.476 162.528  3431.0
+2026-07-02 02:00:00+00:00 162.528 162.548 162.430 162.458  1868.0
+2026-07-02 04:00:00+00:00 162.458 162.458 162.313 162.331  2815.0
+2026-07-02 06:00:00+00:00 162.328 162.332 161.115 161.753 13633.0
+ last 20 main_close: [161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753, 161.753]
+ last 20 main_open: [162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328, 162.328]
+ last 20 cross_over: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+ last 20 cross_under: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+last idx 1498 condition 0.0 entry 162.66
+last 8 swift_main_condition: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+last 8 swift_main_entry: [162.66, 162.66, 162.66, 162.66, 162.66, 162.66, 162.66, 162.66]
+events total 2
+event Main Long Entry formed 97 triggered 2026-07-01 08:00:00+00:00 dir bullish
+event Main Long SL formed 97 triggered 2026-07-02 06:49:00+00:00 dir bullish
+recent count 0
+active zones 0
+
+=== GBPUSD -> GBPUSDm
+signal source by sample
+ last 5 closes: [1.33113, 1.33121, 1.3312599999999999, 1.33139, 1.3315000000000001]
+ last 5 opens: [1.331, 1.33111, 1.33124, 1.33125, 1.33138]
+ resampled frame tail:
+                     time    open    high     low   close  volume
+2026-07-01 12:00:00+00:00 1.32420 1.32803 1.32186 1.32633 10582.0
+2026-07-01 14:00:00+00:00 1.32632 1.32916 1.32622 1.32772  9817.0
+2026-07-01 16:00:00+00:00 1.32774 1.32917 1.32768 1.32774  6042.0
+2026-07-01 18:00:00+00:00 1.32776 1.32821 1.32709 1.32776  3980.0
+2026-07-01 20:00:00+00:00 1.32774 1.32800 1.32655 1.32655  1913.0
+2026-07-01 22:00:00+00:00 1.32695 1.32798 1.32695 1.32782   876.0
+2026-07-02 00:00:00+00:00 1.32782 1.32904 1.32739 1.32843  4025.0
+2026-07-02 02:00:00+00:00 1.32843 1.32944 1.32795 1.32863  3199.0
+2026-07-02 04:00:00+00:00 1.32863 1.32926 1.32848 1.32908  3338.0
+2026-07-02 06:00:00+00:00 1.32910 1.33256 1.32905 1.33150  5527.0
+ last 20 main_close: [1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001, 1.3315000000000001]
+ last 20 main_open: [1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291, 1.3291]
+ last 20 cross_over: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+ last 20 cross_under: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+last idx 1498 condition 0.0 entry 1.32454
+last 8 swift_main_condition: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+last 8 swift_main_entry: [1.32454, 1.32454, 1.32454, 1.32454, 1.32454, 1.32454, 1.32454, 1.32454]
+events total 2
+event Main Short Entry formed 220 triggered 2026-07-01 10:00:00+00:00 dir bearish
+event Main Short SL formed 220 triggered 2026-07-02 06:49:00+00:00 dir bearish
+recent count 0
+active zones 0
+
+=== AUDUSD -> AUDUSDm
+signal source by sample
+ last 5 closes: [0.68922, 0.68921, 0.68912, 0.6892, 0.6892]
+ last 5 opens: [0.68921, 0.68921, 0.68922, 0.68912, 0.6892]
+ resampled frame tail:
+                     time    open    high     low   close  volume
+2026-07-01 12:00:00+00:00 0.68930 0.69155 0.68843 0.69036  5349.0
+2026-07-01 14:00:00+00:00 0.69038 0.69104 0.68962 0.69019  4806.0
+2026-07-01 16:00:00+00:00 0.69020 0.69078 0.68979 0.68985  2397.0
+2026-07-01 18:00:00+00:00 0.68986 0.68997 0.68923 0.68930  1608.0
+2026-07-01 20:00:00+00:00 0.68930 0.68934 0.68888 0.68930  1139.0
+2026-07-01 22:00:00+00:00 0.68931 0.68944 0.68887 0.68893   680.0
+2026-07-02 00:00:00+00:00 0.68893 0.68972 0.68838 0.68940  2956.0
+2026-07-02 02:00:00+00:00 0.68940 0.69013 0.68846 0.68925  2109.0
+2026-07-02 04:00:00+00:00 0.68926 0.68960 0.68897 0.68931  1892.0
+2026-07-02 06:00:00+00:00 0.68931 0.69019 0.68905 0.68920  2475.0
+ last 20 main_close: [0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892, 0.6892]
+ last 20 main_open: [0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931]
+ last 20 cross_over: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+ last 20 cross_under: [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+last idx 1498 condition -1.0 entry 0.68931
+last 8 swift_main_condition: [-1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0]
+last 8 swift_main_entry: [0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931, 0.68931]
+events total 1
+event Main Short Entry formed 100 triggered 2026-07-01 08:00:00+00:00 dir bearish
+recent count 0
+active zones 1

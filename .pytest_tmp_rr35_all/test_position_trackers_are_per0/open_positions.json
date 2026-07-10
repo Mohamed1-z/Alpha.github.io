@@ -1,0 +1,25 @@
+{
+  "open_positions": [
+    {
+      "ticket": 123,
+      "symbol": "EURUSD",
+      "direction": "bullish",
+      "entry_price": 1.1,
+      "volume": 0.1,
+      "stop_loss": 1.09,
+      "take_profit_1": 1.105,
+      "take_profit_2": 1.11,
+      "take_profit_3": 1.12,
+      "tp1_qty": 0.05,
+      "tp2_qty": 0.03,
+      "tp3_qty": 0.02,
+      "tp1_closed": true,
+      "tp2_closed": false,
+      "tp3_closed": false,
+      "highest_bid": null,
+      "lowest_ask": null,
+      "tp1_reversal_armed": false,
+      "tp2_reversal_armed": false
+    }
+  ]
+}

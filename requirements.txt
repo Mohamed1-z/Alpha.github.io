@@ -1,0 +1,11 @@
+MetaTrader5
+matplotlib
+numpy
+pandas
+python-dotenv
+requests
+openpyxl
+pytest
+loguru
+pydantic
+quantstats

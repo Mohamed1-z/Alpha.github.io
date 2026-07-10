@@ -1,0 +1,25 @@
+{
+  "open_positions": [
+    {
+      "ticket": 12345,
+      "symbol": "USTEC_x100m",
+      "direction": "bearish",
+      "entry_price": 29333.7,
+      "volume": 0.01,
+      "stop_loss": 29408.46,
+      "take_profit_1": 29268.46,
+      "take_profit_2": 29198.46,
+      "take_profit_3": 29058.46,
+      "tp1_qty": 0.01,
+      "tp2_qty": 0.0,
+      "tp3_qty": 0.0,
+      "tp1_closed": false,
+      "tp2_closed": false,
+      "tp3_closed": false,
+      "highest_bid": null,
+      "lowest_ask": null,
+      "tp1_reversal_armed": false,
+      "tp2_reversal_armed": false
+    }
+  ]
+}
